@@ -1,0 +1,9 @@
+{
+    "auth": true,
+    "description": "",
+    "messaging_url": "platform.clearblade.com:1883",
+    "name": "jstat statistics toolkit2",
+    "platform_url": "http://dev.clearblade.com",
+    "system_key": "d2d7bda60bc8ce8cb3f7d5f5a2a001",
+    "system_secret": "D2D7BDA60BCE95EFABE4D6B2EA14"
+}
